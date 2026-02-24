@@ -12,4 +12,6 @@ int main(){
 
 int main(){
     int p, l, luas;
+    cout << "Masukkan panjang=";
+    cin >> p;
 }
